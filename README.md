@@ -1,4 +1,4 @@
-# Scrollable Widgets and Navigation - Part 1
+# Scrollable Widgets and Navigation
 
 A new Flutter project.
 
